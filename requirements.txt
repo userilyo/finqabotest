@@ -1,0 +1,15 @@
+﻿langchain
+openai
+tiktoken
+streamlit
+wikipedia
+pytube
+youtube-transcript-api
+pysrt
+docx2txt
+pymupdf
+faiss-cpu==1.7.4
+langchain-core
+langchain-openai
+jq
+pysrt
