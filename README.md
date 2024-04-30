@@ -1,6 +1,6 @@
 # Financial QA Bot using LangChain and OpenAI 
 <a href="https://github.com/userilyo/finqabotest"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=flat-square&logo=github"></a> 
-<a href="https://finqabotest.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20App-red?style=flat-square&logo=streamlit&labelColor=white"></a> 
+<a href="https://finappbotest.streamlit.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Streamlit%20App-red?style=flat-square&logo=streamlit&labelColor=white"></a> 
 
 This project implements FinQA using OpenAI's embedding models and LangChain's Python library. The goal is to create a user-friendly Financial QA application capable of ingesting data from multiple sources, including Word, PDF, TXT, and JSON formats
 
